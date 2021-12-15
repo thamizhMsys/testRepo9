@@ -1,5 +1,5 @@
 function App() {
   
-  return (<div>APP</div>);
+  return (<div>APP PATH</div>);
           
 }
